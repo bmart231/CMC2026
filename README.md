@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # PSY/COS 360: Computational Models of Cognition
 
 ### Fall 2026
