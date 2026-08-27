@@ -220,7 +220,6 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 **Wednesday, October 14 — Lecture 12: Bayesian models 2**
 - Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.
 MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
-- *Optional:* Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. *Nature*, 521(7553), 452.
 
 **Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
 
@@ -247,7 +246,6 @@ MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Infe
 **Monday, November 9 — Lecture 17: Formal systems and propositional logic**
 - *AIMA4* or *AIMA3*, Section 7.4.
 - Haugeland, J. (1997). What is mind design? In J. Haugeland (Ed.) *Mind Design II: Philosophy, Psychology, Artificial Intelligence.* Cambridge, MA: MIT Press. (only pages 8–21)
-- *Optional:* McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. *The Bulletin of Mathematical Biophysics, 5*, 115–133.
 - *Optional:* Feldman, J. (2000). Minimization of Boolean complexity in human concept learning. *Nature, 407*, 630–633.
 
 **Wednesday, November 11 — Lecture 18: Production systems and cognitive architectures**
