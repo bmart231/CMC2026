@@ -219,7 +219,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 
 **Wednesday, October 14 — Lecture 12: Bayesian models 2**
 - Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.
-MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
+- MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
 
 **Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
 
