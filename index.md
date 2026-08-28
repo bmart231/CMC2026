@@ -10,7 +10,7 @@ layout: default
 
 Course announcements and general questions will be handled through Ed. Problem sets
 and regrade requests should be submitted through Gradescope; submission links are
-available on Canvas.
+available on Canvas. Readings are available on Canvas under "Modules".
 
 ---
 
@@ -26,16 +26,16 @@ If you have a question that isn’t suitable for Ed Discussion and there is a ne
 
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
-| Brenden Lake | `brenden` | Tu 4:00–5:00PM | PSH 117 |
+| Brenden Lake | `brenden` | Tuesday 4–5 PM | PSH 117 |
 
 **TAs** (post on Ed for general questions):
 
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
-| Abby Fergus | `abby.fergus` | TBD | TBD |
+| Abby Fergus | `abby.fergus` | Wednesday 1-2 PM | PSH 226 |
 | Kristen Ziman | `kz0108` | TBD | TBD |
 | Branson Byers | `jbbyers` | TBD | TBD |
-| Renata Biazzi  | `renata.biazzi` | TBD | TBD |
+| Renata Biazzi  | `renata.biazzi` | Mondays 2–3 PM | PSY 116 |
 
 *(PSH = Peretsman Scully Hall, PNI = Princeton Neuroscience Institute)*
 
@@ -152,7 +152,8 @@ Dec 2
 Dec 7
  -->
 
-## Schedule
+## Schedule  
+Readings are available on Canvas under "Modules".
 
 **Wednesday, September 2 — Lecture 1: Introduction**
 - Marr, D. (1982). *Vision.* San Francisco: W. H. Freeman. Chapter 1.
@@ -163,7 +164,7 @@ Dec 7
 
 **Wednesday, September 9 — Lecture 2: Categorization 1**
 <!-- prototype and exemplar models -->
-- Murphy, G. L. *The Big Book of Concepts.* Cambridge, MA: MIT Press. Chapters 2 and 3.
+- Murphy, G. L. (2003). *The Big Book of Concepts.* Cambridge, MA: MIT Press. Chapters 2 and 3.
 - Rosch, E., & Mervis, C. (1975). Family resemblances: Studies in the internal structure of categories. *Cognitive Psychology, 7*, 573–605.
 - *Optional:* Medin, D., & Schaffer, M. (1978). Context theory of classification. *Psychological Review, 85*, 207–238.
 
@@ -186,7 +187,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 
 **Monday, September 21 — Lecture 5: Neural networks 1**
 - Marr, D. (1982). *Vision.* San Francisco: W. H. Freeman. Chapter 1.
-- McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
+- McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. (1986). The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
 - LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature, 521*, 436–444.
 
 **Wednesday, September 23 — Lecture 6: Neural networks 2**
