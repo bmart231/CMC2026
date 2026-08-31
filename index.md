@@ -27,14 +27,15 @@ If you have a question that isn’t suitable for Ed Discussion and there is a ne
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
 | Brenden Lake | `brenden` | Tuesday 4–5 PM | PSH 117 |
+Note, **Sept. 1** Tuesday 4-4:30 PM ONLY
 
 **TAs** (post on Ed for general questions):
 
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
 | Abby Fergus | `abby.fergus` | Wednesday 1-2 PM | PSH 226 |
-| Kristen Ziman | `kz0108` | TBD | TBD |
-| Branson Byers | `jbbyers` | TBD | TBD |
+| Kristen Ziman | `kz0108` | Thursdays 12-1 PM | PNI 282a |
+| Branson Byers | `jbbyers` | Monday 12:30-1:30 PM | PNI 141 |
 | Renata Biazzi  | `renata.biazzi` | Mondays 2–3 PM | PSY 116 |
 
 *(PSH = Peretsman Scully Hall, PNI = Princeton Neuroscience Institute)*
@@ -63,6 +64,12 @@ This book is referred to as ***BMC*** in the rest of the syllabus and is availab
 
 Many classes also use primary sources in cognitive science, which will be available as PDF files on Canvas. The optional readings are listed for your interest only, and provide a feel for the of the discipline.
 
+Finally, the perfect companion book for this class is:
+
+> Griffiths, T. (2026). **The Laws of Thought: The Quest for a Mathematical Theory of the Mind.** HarperCollins UK. 
+
+This book walks through the three main paradigms that organize this class, with a focus on their history and key developments. 
+
 ## Course Requirements
 
 | Requirement | Percentage of Final Grade |
@@ -75,6 +82,14 @@ Problem sets are due at 11:59pm on the days indicated in the syllabus. You get *
 
 Problem sets will be distributed and completed using Jupyter notebooks. More information on how these are distributed will be coming soon.
 <!-- You need to use your Princeton NetID to log into the server for the problem sets. We will add NetIDs for people who are enrolled in the class automatically, but you will need to contact the AIs if your login credentials do not work. -->
+
+## Exams
+
+There will be an in-class Midterm (TBD on the week of Oct. 12) and Final exam (Wed, Dec. 16, 4-6 PM). The exams will be a mix of multiple choice and free response. The exam will be closed-book and proctored.
+
+## Homework
+
+Homework assignments will be Jupyter Notebooks available for download on the course github. You will submit them via Gradescope, which is linked on Canvas. Please be sure to properly indicate where your response is to each question.
 
 ## Grading
 
@@ -164,6 +179,7 @@ Readings are available on Canvas under "Modules".
 
 **Wednesday, September 9 — Lecture 2: Categorization 1**
 <!-- prototype and exemplar models -->
+- **Homework 1 out**
 - Murphy, G. L. (2003). *The Big Book of Concepts.* Cambridge, MA: MIT Press. Chapters 2 and 3.
 - Rosch, E., & Mervis, C. (1975). Family resemblances: Studies in the internal structure of categories. *Cognitive Psychology, 7*, 573–605.
 - *Optional:* Medin, D., & Schaffer, M. (1978). Context theory of classification. *Psychological Review, 85*, 207–238.
@@ -186,6 +202,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 ### Part II: Neural network models
 
 **Monday, September 21 — Lecture 5: Neural networks 1**
+- **Homework 1 is due. Homework 2 is out**
 - Marr, D. (1982). *Vision.* San Francisco: W. H. Freeman. Chapter 1.
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. (1986). The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
 - LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature, 521*, 436–444.
@@ -204,6 +221,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 - *Optional:* Orhan, A. E., & Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases. *Nature Machine Intelligence, 6*, 271–283.
 
 **Monday, October 5 — Lecture 9: LLM models of cognition 1**
+- **Homework 2 is due.**
 - Binz, M., Akata, E., Bethge, M. et al. (2025). A foundation model to predict and capture human cognition. *Nature.*
 - *Optional:* Bhatia, S., & Richie, R. (2024). Transformer networks of human conceptual knowledge. *Psychological Review, 131*(1), 271.
 - *Optional:* Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
@@ -214,7 +232,9 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 
 ### Part III: Bayesian models
 
+<!-- possibly the final exam? -->
 **Monday, October 12 — Lecture 11: Bayesian models 1**
+- **Homework 3 is out.**
 - Griffiths, T. L. & Tenenbaum, J. B. (2024). Bayesian inference. *BMC*, Chapter 3.
 - Tenenbaum, J. B., & Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. *Behavioral and Brain Sciences, 24*, 629–641.
 
@@ -233,6 +253,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 - *Optional:* Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
 
 **Monday, November 2 — Lecture 15: Program induction and language of thought models**
+- **Homework 3 is due.**
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. *Nature, 521*(7553), 452.
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for Brains, Minds and Machines (CBMM).
 - *Optional:* Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. *Science, 350*(6266), 1332–1338.
@@ -245,6 +266,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 ### Part IV: Symbols and rules; historical foundations
 
 **Monday, November 9 — Lecture 17: Formal systems and propositional logic**
+- **Homework 4 is out.**
 - *AIMA4* or *AIMA3*, Section 7.4.
 - Haugeland, J. (1997). What is mind design? In J. Haugeland (Ed.) *Mind Design II: Philosophy, Psychology, Artificial Intelligence.* Cambridge, MA: MIT Press. (only pages 8–21)
 - *Optional:* Feldman, J. (2000). Minimization of Boolean complexity in human concept learning. *Nature, 407*, 630–633.
@@ -264,6 +286,7 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 - *Optional:* Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
 
 **Monday, November 23 — Lecture 21: TBD**
+- **Homework 4 is due.**
 - TBD
 
 **Wednesday, November 25 — Thanksgiving break -- No class**
@@ -278,4 +301,4 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 
 **Monday, December 7 — Lecture 24: Course speedrun and AMA**
 
-<!-- **Date XX (note time!)** — Final project due -->
+**Wednesday, December 16, 4-6 PM — Final exam**
