@@ -27,6 +27,7 @@ If you have a question that isn’t suitable for Ed Discussion and there is a ne
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
 | Brenden Lake | `brenden` | Tuesday 4–5 PM | PSH 117 |
+
 Note, **Sept. 1** Tuesday 4-4:30 PM ONLY
 
 **TAs** (post on Ed for general questions):
