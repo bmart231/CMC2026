@@ -60,7 +60,8 @@ We will also use material from:
 
 > Griffiths, T. L., Chater, N., & Tenenbaum, J. B. (Eds.). (2024). *Bayesian Models of Cognition: Reverse Engineering the Mind.* MIT Press.
 
-This book is referred to as ***BMC*** in the rest of the syllabus and is available online [here](https://tinyurl.com/5fftxbax).
+This book is referred to as ***BMC*** in the rest of the syllabus and is available online. The link will be posted soon.
+ <!-- [here](https://tinyurl.com/5fftxbax). -->
 
 Many classes also use primary sources in cognitive science, which will be available as PDF files on Canvas. The optional readings are listed for your interest only, and provide a feel for the of the discipline.
 
@@ -85,7 +86,7 @@ Problem sets will be distributed and completed using Jupyter notebooks. More inf
 
 ## Exams
 
-There will be an in-class Midterm (TBD on the week of Oct. 12) and Final exam (Wed, Dec. 16, 4-6 PM). The exams will be a mix of multiple choice and free response. The exam will be closed-book and proctored.
+There will be an in-person Midterm (Monday, Oct. 12, during class time) and Final exam (Wed, Dec. 16, 4-6 PM). The exams will be a mix of multiple choice and free response. The exam will be closed-book and proctored.
 
 ## Homework
 
@@ -148,7 +149,7 @@ Sept 28
 Sept 30
 Oct 5
 Oct 7
-Oct 12
+Oct 12 - Midterm exam
 Oct 14
 Oct 19 Fall Break - no class
 Oct 21 Fall Break - no class
@@ -192,13 +193,6 @@ Readings are available on Canvas under "Modules".
 <!-- human and machine category learning -->
 - Jäkel, F., Schölkopf, B., & Wichmann, F. A. (2008). Generalization and similarity in exemplar models of categorization: Insights from machine learning. *Psychonomic Bulletin & Review, 15*, 256-271.
 
-<!-- - *Optional math:* Ashby, F. G. & Alfonso-Reese, L. (1995). Categorization as probability density
-estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
-<!-- - Goodman, N. (1955). *Fact, Fiction, and Forecast.* Cambridge, MA: Harvard University Press. Chapter 3. -->
-<!-- - *Optional:* Battleday, R. M., Peterson, J. C., & Griffiths, T. L. (2020). Capturing human categorization of natural images by combining deep networks and cognitive models. *Nature Communications, 11*(1), 1–14. -->
-<!-- - Shepard, R. N. (1980). Multidimensional scaling, tree-fitting, and clustering. *Science, 210*, 390–398. -->
-<!-- - *Optional:* Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. *Proceedings of the National Academy of Sciences, 105*, 10687–10692. -->
-
 ### Part II: Neural network models
 
 **Monday, September 21 — Lecture 5: Neural networks 1**
@@ -230,75 +224,72 @@ estimation. *Journal of Mathematical Psychology, 39*, 216-233. -->
 - Webb, T., Holyoak, K.J. & Lu, H. (2023). Emergent analogical reasoning in large language models. *Nature Human Behavior*, 7, 1526–1541.
 - *Optional:* Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., et al. (2023). Sparks of artificial general intelligence: Early experiments with GPT-4. arXiv preprint arXiv:2303.12712.
 
+**Monday, October 12 — Midterm exam**
+
 ### Part III: Bayesian models
 
-<!-- possibly the final exam? -->
-**Monday, October 12 — Lecture 11: Bayesian models 1**
+**Wednesday, October 14 — Lecture 11: Bayesian models 1**
 - **Homework 3 is out.**
 - Griffiths, T. L. & Tenenbaum, J. B. (2024). Bayesian inference. *BMC*, Chapter 3.
 - Tenenbaum, J. B., & Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. *Behavioral and Brain Sciences, 24*, 629–641.
 
-**Wednesday, October 14 — Lecture 12: Bayesian models 2**
+**Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
+
+**Monday, October 26 — Lecture 12: Bayesian models 2**
 - Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.
 - MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
 
-**Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
-
-**Monday, October 26 — Lecture 13: Bayesian models 3**
+**Wednesday, October 28 — Lecture 13: Bayesian models 3**
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. *Cognitive Science*, 32(1), 108-154.
 - *Optional:* Anderson, J. R. (1991). The adaptive nature of human categorization. *Psychological Review*, 98(3), 409.
 
-**Wednesday, October 28 — Lecture 14: Probabilistic Graphical models**
+**Monday, November 2 — Lecture 14: Probabilistic Graphical models**
 - Griffiths, T. L. & Yuille, A. (2024). Graphical models. *BMC*, Chapter 4.
 - *Optional:* Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
 
-**Monday, November 2 — Lecture 15: Program induction and language of thought models**
+**Wednesday, November 4 — Lecture 15: Program induction and language of thought models**
 - **Homework 3 is due.**
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. *Nature, 521*(7553), 452.
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for Brains, Minds and Machines (CBMM).
 - *Optional:* Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. *Science, 350*(6266), 1332–1338.
 
-**Wednesday, November 4 — Lecture 16: Unifying Bayesian models and neural networks**
+**Monday, November 9 — Lecture 16: Unifying Bayesian models and neural networks**
 - Griffiths, T. L., Lake, B. M., McCoy, R. T., Pavlick, E., & Webb, T. W. (2025). *Whither symbols in the era of advanced neural networks?*Trends in Cognitive SCience.
 - *Optional:* Lake, B. M., Jagadish, A., & Jiang, G. (2026). *More accurate behavioral predictions with hybrid Bayesian-connectionist models.* arXiv preprint.
 - *Optional:* McCoy, R. T., & Griffiths, T. L. (2025). Modeling rapid language learning by distilling Bayesian priors into artificial neural networks. *Nature Communications, 16*, 4676.
 
 ### Part IV: Symbols and rules; historical foundations
 
-**Monday, November 9 — Lecture 17: Formal systems and propositional logic**
+**Wednesday, November 11 — Lecture 17: Formal systems and propositional logic**
 - **Homework 4 is out.**
 - *AIMA4* or *AIMA3*, Section 7.4.
 - Haugeland, J. (1997). What is mind design? In J. Haugeland (Ed.) *Mind Design II: Philosophy, Psychology, Artificial Intelligence.* Cambridge, MA: MIT Press. (only pages 8–21)
 - *Optional:* Feldman, J. (2000). Minimization of Boolean complexity in human concept learning. *Nature, 407*, 630–633.
 
-**Wednesday, November 11 — Lecture 18: Production systems and cognitive architectures**
+**Monday, November 16 — Lecture 18: Production systems and cognitive architectures**
 - Anderson, J. R. (1996). ACT: A simple theory of complex cognition. *American Psychologist, 51*, 355–365.
 - Newell, A., Rosenbloom, P. S., & Laird, J. E. (1989). Symbolic architectures for cognition. In M. I. Posner (Ed.), *Foundations of Cognitive Science*, 93–131. Cambridge, MA: MIT Press.
 - *Optional:* Newell, A., & Simon, H. (1956). The logic theory machine — A complex information processing system. *IRE Transactions on Information Theory, 2*, 61–79.
 
-**Monday, November 16 — Lecture 19: Language as a formal system**
+**Wednesday, November 18 — Lecture 19: Language as a formal system**
 - *AIMA4*, pages 833–835, or *AIMA3*, pages 888–892.
 - Chomsky, N. (1957). *Syntactic Structures.* The Hague: Mouton. Pages 11–48.
 
-**Wednesday, November 18 — Lecture 20: Learning and the poverty of the stimulus**
+**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
+- **Homework 4 is due.**
 - Pinker, S. (1979). Formal models of language learning. *Cognition, 7*, 217–283. (only pages 217–234)
 - Johnson, K. (2004). Gold's theorem and cognitive science. *Philosophy of Science, 71*, 571–592.
 - *Optional:* Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
 
-**Monday, November 23 — Lecture 21: TBD**
-- **Homework 4 is due.**
-- TBD
-
 **Wednesday, November 25 — Thanksgiving break -- No class**
-- TBD
 
-**Monday, November 30 — Lecture 22: Unifying symbols, probabilities, and networks**
+**Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
 - TBD
 
 ### Part V: The End
 
-**Wednesday, December 2 — Lecture 23: Auto-experimentation in cognitive science (guest lecture)**
+**Wednesday, December 2 — Lecture 22: Auto-experimentation in cognitive science (guest lecture by [Akshay Jagadish](https://akjagadish.github.io/))**
 
-**Monday, December 7 — Lecture 24: Course speedrun and AMA**
+**Monday, December 7 — Lecture 23: Course speedrun and AMA**
 
 **Wednesday, December 16, 4-6 PM — Final exam**
