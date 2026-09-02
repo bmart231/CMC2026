@@ -127,7 +127,7 @@ If you believe an assignment or exam has received a grade in error, you may subm
 
   If you have questions about these matters, please consult a course staff member. Violators will be referred to the Committee on Discipline for review; if found guilty, you will receive an F as a course grade plus whatever disciplinary action the Committee imposes.
 
-- **Use of AI on homework assignments.** We won’t restrict the use of AI on the homework assignments, but we strongly discourage it. The homeworks are designed as a learning exercise, to be done without AI assitance. The homeworks were the main assessment or differentiator for grades; before the rise of LLMs, students did very well on the homeworks too. Using AI on the homeworks will hurt you on the midterm and final.
+- **Use of AI on homework assignments.** We won’t restrict the use of AI on the homework assignments, but we strongly discourage it. The homeworks are designed as a learning exercise, to be done without AI assitance. The homeworks are not the main assessment or differentiator for grades; before the rise of LLMs, students did very well on the homeworks too. Using AI on the homeworks will hurt you on the midterm and final.
 
 - **Laptops in class.** Laptops in class are **discouraged** unless they are needed for a specific reason. We know many try to take notes on their laptops, but it's easy to get distracted (social media, etc.). This also distracts everyone behind you. We encourage you to engage with the class and material, and engage with us as the instructors. Ask questions! All slides are posted 
 so there is no need to copy things down, and paper notes are great too.
