@@ -1,0 +1,20 @@
+# Dependencies for Homework - Categorization and Model Comparison (Parts A & B)
+#
+# Quick check (from this folder):
+#     pip install -r requirements.txt
+#
+# Or, to only verify what you already have without installing anything:
+#     pip install pip-tools        # optional
+#     python -c "import numpy, pandas, scipy, matplotlib, seaborn; print('all core deps importable')"
+#
+# Developed and tested with Python 3.13 and the exact versions noted after each
+# line. The >= lower bounds are the minimums the notebook code relies on; newer
+# versions are expected to work.
+
+numpy>=1.24            # tested: 2.3.3
+pandas>=1.5            # tested: 2.3.3   (code passes numeric_only= explicitly, needs >=1.5)
+scipy>=1.9            # tested: 1.16.2  (scipy.optimize.fmin, scipy.special.comb)
+matplotlib>=3.6       # tested: 3.10.6
+seaborn>=0.12         # tested: 0.13.2  (sns.barplot)
+notebook>=6.5         # tested: 7.4.5 
+ipykernel>=6.0        # tested: 6.30.1
