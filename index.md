@@ -104,7 +104,7 @@ Final letter grades will roughly correspond to the following point totals:
 | A- | 90.0–92.9 | B- | 80.0–82.9 | C- | 70.0–72.9 |
 | D | 60.0–69.9 | F | 59.9 and below | — | — |
 
-Per university policy, an A+ will be awarded only for exceptional work in the course, which typically requires an A+ on the final project.
+Per university policy, an A+ will be awarded only for exceptional work in the course.
 
 If you believe an assignment or exam has received a grade in error, you may submit an appeal. More information about the appeal process is forthcoming.
 <!-- To do so, write a brief cover letter explaining your concern, and deliver it to your TA along with the assignment in question. An appeal must be submitted within 48 hours after the graded assignment or exam is returned. Documents submitted for an appeal will be regraded in their entirety. As a result your grade may increase, but it may also decrease. -->
